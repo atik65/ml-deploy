@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '0.0.0.0',
+    'https://ml-deploy-9i28.onrender.com'
 ]
 
 
